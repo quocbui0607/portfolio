@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <div className="container flex flex-col items-center justify-center py-4 space-y-2 text-[#9f9fa9]">
+    <div className="flex flex-col items-center justify-center py-4 space-y-2 text-[#9f9fa9]">
       <div className="max-w-3xl text-xs leading-relaxed text-center sm:text-sm text-balance text-[#9f9fa9]">
         <span className="block sm:inline">©2025</span>
         <span className="hidden sm:inline"> · </span>
