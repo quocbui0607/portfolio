@@ -9,7 +9,7 @@ const ContactLinks = () => {
   return (
     <ul className="w-full flex justify-end content-center">
       <li className="mr-4 size-[25] flex flex-wrap justify-center items-center">
-        <a href="/" className="text-2xl w-[25]">
+        <a href="https://github.com/quocbui0607/quocbui0607/blob/main/Quoc%20Bui%20CV.pdf" className="text-2xl w-[25]">
           <img
             src={CVLogo.src}
             alt="Resume Logo"
