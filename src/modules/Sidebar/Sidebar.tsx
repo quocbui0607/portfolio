@@ -33,12 +33,12 @@ export default function Sidebar({ isShow, setIsShow }: Props) {
           stroke="currentColor"
           strokeLinecap="round"
           strokeLinejoin="round"
-          className="size-[25] mr-4"
+          className="size-[25] mr-2"
         >
           <path d="M13 5H19V11"></path>
           <path d="M19 5L5 19"></path>
         </svg>
-        <h1 className="text-2xl font-bold">warren.quocbui.dev</h1>
+        <h1 className="text-xl md:text-2xl font-bold">warren.quocbui.dev</h1>
       </a>
 
       {menu.map((item) => {
