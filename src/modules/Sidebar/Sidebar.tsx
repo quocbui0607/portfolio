@@ -1,6 +1,5 @@
 "use client";
 import { usePathname, useRouter } from "next/navigation";
-import { useEffect, useState } from "react";
 
 const menu = [
   { label: "Introduction", href: "/", key: "introduction" },

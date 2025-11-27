@@ -1,4 +1,4 @@
-export default function Home() {
+export default function HomePage() {
   return (
     <div className="gap-10">
       <h1 className="text-cyan-500 font-bold text-4xl">
