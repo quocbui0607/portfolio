@@ -24,7 +24,7 @@ export default function EducationPage() {
 
       <ol className="relative border-s border-gray-700">
         <li className="mb-10 ms-6">
-          <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 bg-blue-900">
+          <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 bg-blue-900 dark:ring-gray-900">
             <svg
               className="w-2.5 h-2.5 text-blue-300"
               aria-hidden="true"
@@ -69,7 +69,7 @@ export default function EducationPage() {
           </p>
         </li>
         <li className="mb-10 ms-6">
-          <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 bg-blue-900">
+          <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 bg-blue-900 dark:ring-gray-900">
             <svg
               className="w-2.5 h-2.5 text-blue-300"
               aria-hidden="true"

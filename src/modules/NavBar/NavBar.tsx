@@ -70,7 +70,7 @@ interface Props {
 
 export default function NavBar({ isShow, setIsShow }: Props) {
   return (
-    <div className="w-full px-[1.5rem] h-[60] flex items-center bg-violet-100 grid grid-cols-2">
+    <div className="w-full px-[1.5rem] h-[60] flex items-center bg-violet-100 grid grid-cols-2 dark:bg-violet-300">
       <div className="flex flex-wrap items-center relative">
         <a
           className="w-full flex text-[#00df9a] flex content-center hidden md:flex"

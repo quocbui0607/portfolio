@@ -168,7 +168,7 @@ export default function SkillsPage() {
         <div className="flex mt-4 flex-wrap justify-center">
           {frontend.map((item) => {
             return (
-              <div key={item.name} className="mr-2 mt-2 bg-white py-2 w-[120] h-[75] flex gap-2 rounded-lg justify-center flex-wrap content-center">
+              <div key={item.name} className="dark:text-black mr-2 mt-2 bg-white py-2 w-[120] h-[75] flex gap-2 rounded-lg justify-center flex-wrap content-center">
                 <img src={item.src.src} className="w-[25] h-[25]"></img>
                 {item.name}
               </div>
@@ -176,7 +176,7 @@ export default function SkillsPage() {
           })}
         </div>
 
-        <div className="flex mt-4 flex-wrap justify-center">
+        <div className="dark:text-black flex mt-4 flex-wrap justify-center">
           {backend.map((item) => {
             return (
               <div key={item.name} className="mr-2 mt-2 bg-white py-2 w-[120] h-[75] flex gap-2 rounded-lg justify-center flex-wrap content-center">
