@@ -1,7 +1,7 @@
 const experiences = [
   {
     company: "Australia and New Zealand Banking (AnZ)",
-    title: "Golang Developer",
+    title: "Backend Developer",
     workingPeriod: "Dec 2024 - Sep 2025",
     teamSize: "10",
     workDescription:
@@ -125,7 +125,7 @@ export default function ExperiencePage() {
                 </svg>
               </span>
               <h3 className="flex items-center mb-1 text-lg font-semibold text-white">
-                {item.company}
+                {item.company} - {item.title}
               </h3>
               <time className="block mb-2 text-sm font-normal leading-none text-gray-500">
                 {item.workingPeriod}
