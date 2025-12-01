@@ -1,9 +1,7 @@
 export default function HomePage() {
   return (
     <div className="gap-10">
-      <h1 className="text-cyan-500 font-bold text-4xl">
-        (Warren) Quoc Bui
-      </h1>
+      <h1 className="text-cyan-500 font-bold text-4xl">(Warren) Quoc Bui</h1>
       <h1 className="text-gray-500 mt-2 sm: text-3xl md:text-4xl font-bold">
         Chasing tasks by day, learning issues by night!
       </h1>
@@ -15,10 +13,8 @@ export default function HomePage() {
         <li className="mt-2">
           I just got{" "}
           <span className="text-cyan-300">
-            {" "}
             United States Permanent Resident
-          </span>{" "}
-          in the end of 2025.
+          </span>
         </li>
         <li className="mt-2">
           I am a dedicated Software Engineer with 4+ years experiences
