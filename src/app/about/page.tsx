@@ -10,7 +10,7 @@ export default function AboutPage() {
 
       <p className="mt-6 text-white sm:text-2xl">
         My passion on computer began since I was 7 years old, from playing games
-        like: MU Online, Boom Online, Cabal Online,... Although interacting with
+        like: MU Online, Boom Online, Cabal Online,... Despite of interacting with
         computers at the early lifetime, I decided to take Biotechnology
         Bachelor in University of Sciences, Vietnam.
       </p>
