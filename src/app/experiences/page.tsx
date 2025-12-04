@@ -49,7 +49,6 @@ const experiences = [
       "Reactjs",
       "NodeJs",
       "GitHub",
-      "Java",
       "HarnessCI",
       "Docker",
       "AWS",
@@ -60,7 +59,7 @@ const experiences = [
   {
     company: "FPT Software",
     title: "Frontend Developer",
-    workingPeriod: "Jan 2021 - Mar 2022",
+    workingPeriod: "Nov 2020 - May 2022",
     teamSize: "6",
     workDescription:
       "Contribute to build a website for Petroleum managers to manage and approve documents about wells properties.",
@@ -75,7 +74,7 @@ const experiences = [
   {
     company: "TADA Education",
     title: "Frontend Developer",
-    workingPeriod: "Mar 2019 - Dec 2020",
+    workingPeriod: "Mar 2019 - Nov 2020",
     teamSize: "10",
     workDescription:
       "Contribute to build a website for students in highschools and universities to study and ask questions.",
